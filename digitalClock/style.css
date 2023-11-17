@@ -42,10 +42,10 @@ body {
 .clock span {
     font-weight: bolder;
     font-size: 60px;
-    color: #ffcc00; /* Yellow color for digits */
+    color: #ffcc00; 
 }
 
 .clock span.time {
     font-size: 12px;
-    color: #ccc; /* Light gray color for time labels */
+    color: #ccc;
 }
