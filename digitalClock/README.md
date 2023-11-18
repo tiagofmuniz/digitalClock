@@ -3,23 +3,23 @@
   <img src="./digitalClock.gif" width="500" >
 </div>
 
-## Descrição
 
-Este projeto consiste em um relógio digital simples desenvolvido em HTML, CSS e JavaScript. Exibe as horas, minutos e segundos atualizados em tempo real.
+> ## Descrição
+   Projeto de um relógio digital simples que exibe as horas, minutos e segundos em tempo real.
 
-## Tecnologias
+> ## Tecnologias
 
-- HTML
-- CSS
-- JavaScript
+  - HTML
+  - CSS (referenciado em [style.css](./style.css))
+  - JavaScript (referenciado em [script.js](./script.js))
 
-## Como usar
+> ## Como usar
 
-1. Faça o clone deste repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+1. Faça o clone deste repositório: https://github.com/tiagofmuniz/digitalClock.git
 2. Abra o arquivo `index.html` em seu navegador.
-3. O relógio irá mostrar as horas, minutos e segundos atuais.
-4. O conteúdo é atualizado automaticamente em tempo real.
+3. O relógio digital será exibido, mostrando as horas, minutos e segundos em tempo real.
 
----
+> ## Principais aprendizados
 
-Espero que isso atenda às suas expectativas! Se precisar de mais alguma coisa ou quiser fazer ajustes, estou à disposição.
+- Time methods, como getHours(), getMinutes(), getSeconds();
+- Manipulação dinâmica do DOM para exibir a hora atual.
