@@ -1,11 +1,7 @@
-# Relógio Digital
-
 <div align="center">
   <h1>Relógio Digital</h1>
   <img src="./digitalClock.gif" width="500" >
 </div>
-
-<div align="left">
 
 ## Descrição
 
@@ -24,4 +20,6 @@ Este projeto consiste em um relógio digital simples desenvolvido em HTML, CSS e
 3. O relógio irá mostrar as horas, minutos e segundos atuais.
 4. O conteúdo é atualizado automaticamente em tempo real.
 
-</div>
+---
+
+Espero que isso atenda às suas expectativas! Se precisar de mais alguma coisa ou quiser fazer ajustes, estou à disposição.
